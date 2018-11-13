@@ -1,0 +1,10 @@
+F:\Projects\С# Projects\WindowsFormsAppTest\WindowsFormsAppTest\bin\Debug\WindowsFormsAppTest.exe.config
+F:\Projects\С# Projects\WindowsFormsAppTest\WindowsFormsAppTest\bin\Debug\WindowsFormsAppTest.exe
+F:\Projects\С# Projects\WindowsFormsAppTest\WindowsFormsAppTest\bin\Debug\WindowsFormsAppTest.pdb
+F:\Projects\С# Projects\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.csprojAssemblyReference.cache
+F:\Projects\С# Projects\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.Form1.resources
+F:\Projects\С# Projects\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.Properties.Resources.resources
+F:\Projects\С# Projects\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.csproj.GenerateResource.cache
+F:\Projects\С# Projects\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.csproj.CoreCompileInputs.cache
+F:\Projects\С# Projects\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.exe
+F:\Projects\С# Projects\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.pdb
