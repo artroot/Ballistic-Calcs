@@ -1,1 +1,1 @@
-# Ballistic-Calcs-Windows-
+# Ballistic-Calcs for Windows
