@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 
-namespace WindowsFormsAppTest
+namespace BallisticCalcs
 {
     public partial class Form1 : Form
     {

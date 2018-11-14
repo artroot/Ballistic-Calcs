@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsAppTest
+﻿namespace BallisticCalcs
 {
     partial class Form1
     {

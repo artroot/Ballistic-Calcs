@@ -1,0 +1,10 @@
+F:\Projects\С# Projects\Ballistic-Calcs\obj\Debug\Ballistic-Calcs.csprojAssemblyReference.cache
+F:\Projects\С# Projects\Ballistic-Calcs\obj\Debug\Ballistic-Calcs.csproj.GenerateResource.cache
+F:\Projects\С# Projects\Ballistic-Calcs\obj\Debug\Ballistic-Calcs.csproj.CoreCompileInputs.cache
+F:\Projects\С# Projects\Ballistic-Calcs\obj\Debug\BallisticCalcs.Form1.resources
+F:\Projects\С# Projects\Ballistic-Calcs\bin\Debug\BallisticCalcs.exe.config
+F:\Projects\С# Projects\Ballistic-Calcs\bin\Debug\BallisticCalcs.exe
+F:\Projects\С# Projects\Ballistic-Calcs\bin\Debug\BallisticCalcs.pdb
+F:\Projects\С# Projects\Ballistic-Calcs\obj\Debug\BallisticCalcs.Properties.Resources.resources
+F:\Projects\С# Projects\Ballistic-Calcs\obj\Debug\BallisticCalcs.exe
+F:\Projects\С# Projects\Ballistic-Calcs\obj\Debug\BallisticCalcs.pdb
